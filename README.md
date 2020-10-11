@@ -23,3 +23,4 @@ To facilitate the use of the program, we have created a GUI. Both the front-end 
 9. Then hover to the point you wish the print the 2nd column/field of data (Ex: Project).
 10. Repeat same for 3rd column/field (Ex: Date).
 11. You can close the preview and open the destination folder, the generated certificates will be available.
+12. In case the EXE file doesn't work, use the certifinator.py file.
