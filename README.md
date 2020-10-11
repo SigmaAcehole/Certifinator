@@ -1,6 +1,7 @@
 # Certifinator
 Project submitted for VIT Hack 2020
 
+Team - Codelicious (Team ID: 886479)
 Case Partner - GlobalCert
 Track - Open Innovation
 
