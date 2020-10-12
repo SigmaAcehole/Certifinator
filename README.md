@@ -19,6 +19,10 @@ The application lets the user load any certificate template and a database whose
 10. Repeat same for 3rd column/field (Ex: Date).
 11. Close the preview and open the destination folder, the generated certificates will be available.
 
-<img src = "SnapShots/demo.png" width = "500" height = "500">
-<img src = "SnapShots/output.png" width = "400" height = "500">
-<img src = "Snapshots/stored.png" width = "600" height = "500">
+## Demo
+Setting the coordinates by double clicking<br>
+<img src = "SnapShots/demo.png" width = "500" height = "500"><br><br>
+Sample generated certificate<br>
+<img src = "SnapShots/output.png" width = "400" height = "500"><br><br>
+All generated certificates stored in destination folder<br>
+<img src = "SnapShots/dest.png" width = "900" height = "450">
