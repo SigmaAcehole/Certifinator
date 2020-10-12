@@ -6,7 +6,7 @@ The objective of the application is to automatically generate certificates by ma
 The application lets the user load any certificate template and a database whose content they want to map to the certificate. The program will store the user-clicked configuration in the form of coordinates and print the content from database to certificate automatically with utmost accuracy. The advantage of such a program is it's flexibility, we are confident that it will support any sample certificate design chosen by the user. Simplicity and user friendliness has been kept in mind while creating the GUI. 
 
 ## Instructions 
-1. First launch the application "certifinator.exe".
+1. First launch the application "Certifinator.exe".
 2. The EXE file and font folder should be in same folder.
 3. Click "Load Template" and select the certificate template(PNG or JPEG) you wish to map content to. 
 3. Next, click "Load Data" and select the database in CSV format containing 3 columns and as many rows as you wish (will generate as many certificates). 
