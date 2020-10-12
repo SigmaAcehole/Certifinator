@@ -21,4 +21,4 @@ The application lets the user load any certificate template and a database whose
 
 <img src = "SnapShots/demo.png" width = "500" height = "500">
 <img src = "SnapShots/output.png" width = "400" height = "500">
-<img src = "Snapshots/folder.png" width = "600" height = "500">
+<img src = "Snapshots/stored.png" width = "600" height = "500">
