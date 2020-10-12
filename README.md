@@ -1,16 +1,11 @@
 # Certifinator
-Project submitted for VIT Hack 2020
 
-Team - Codelicious (Team ID: 886479)
-Case Partner - GlobalCert
-Track - Open Innovation
-
-# Objective and Implementation
+## Objective and Implementation
 The aim of the project is to automatically generate certificates by mapping relevant content from a database(csv, excel) to appropriate position on the certificate. 
 
 To facilitate the use of the program, we have created a GUI. Both the front-end and back-end of the GUI is done on python. The user will be able to select any sample certificate from their computer and manually map the positions on the certificate by just clicking on it. The program will store the user-clicked configuration in the form of coordinates and print the content from database to certificate automatically with utmost accuracy. The advantage of such a program is it's flexibility, we are confident that it will support any sample certificate design chosen by the user. Simplicity and user friendliness has been kept in mind while creating the GUI. 
 
-# Instructions
+## Instructions
 1. First launch the application "certification.exe".
 2. The EXE file and font folder should be in same folder.
 3. Click "Load Template" and select the certificate template(PNG or JPEG) you wish map content to. 
